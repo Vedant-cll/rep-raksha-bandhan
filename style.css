@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(https://th.bing.com/th/id/R.5f15fe8f9a03520c6314e2289e9680f7?rik=6ogFo84S9hlHwQ&riu=http%3a%2f%2fwww.hothungama.com%2fwp-content%2fuploads%2f2014%2f08%2fRaksha-Bandhan-wallpaper-2012.jpg&ehk=%2bFHdq3xyDOI78mWTWdi0aTK8xm%2b3LRBU4b12S0ZPUq4%3d&risl=&pid=ImgRaw&r=0);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ 
+  border-color: rgb(211, 67, 67);
+  border-style:ridge ;
+  border-width: 10px;
+  margin-left: 100px;
+  margin-bottom: 300px;
+}
+
